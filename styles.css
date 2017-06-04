@@ -15,9 +15,7 @@ body{
 	background-image:url('assets/BeanSwirlBG_beans.png');
 	background-size:cover;
 	margin:0;
-	background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
 }
 .emptySection{
 	height:50vh;
